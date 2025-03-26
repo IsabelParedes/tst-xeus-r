@@ -4,3 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - xeus-r
+  - r-rcolorbrewer
+  - r-crayon
+  - r-htmltools
+  - r-farver

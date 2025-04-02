@@ -8,3 +8,4 @@ dependencies:
   - r-crayon
   - r-htmltools
   - r-farver
+  - r-dplyr

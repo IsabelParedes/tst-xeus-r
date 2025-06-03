@@ -9,3 +9,4 @@ dependencies:
   - r-tidyselect
   - r-generics
   - r-cli >= 3.6.5
+  - r-rlang == 1.1.5

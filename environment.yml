@@ -4,9 +4,5 @@ channels:
   - conda-forge
 dependencies:
   - xeus-r >= 0.7.0
-  - r-base < 4.5.0
+  - r-base
   - r-ggplot2
-  - r-tidyselect
-  - r-generics
-  - r-cli >= 3.6.5
-  - r-rlang == 1.1.5

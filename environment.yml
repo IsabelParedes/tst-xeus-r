@@ -4,5 +4,6 @@ channels:
   - conda-forge
 dependencies:
   - xeus-r >= 0.7.0
+  - r-dplyr
   - xeus-python
   - numpy

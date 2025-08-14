@@ -7,3 +7,4 @@ dependencies:
   - r-dplyr
   - xeus-python
   - numpy
+  - scipy

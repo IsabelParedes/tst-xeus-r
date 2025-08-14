@@ -4,8 +4,4 @@ channels:
   - conda-forge
 dependencies:
   - xeus-r >= 0.7.0
-  - r-base
-  - r-ggplot2
-  - r-base64enc
-  - xeus-python
-  - scipy
+  - numpy

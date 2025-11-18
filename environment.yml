@@ -5,6 +5,6 @@ channels:
 dependencies:
   - xeus-r
   - r-colorspace
-  - r-colorbrewer
+  - r-rcolorbrewer
   - r-htmltools
   - r-farver

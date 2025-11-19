@@ -9,3 +9,4 @@ dependencies:
   - r-rcolorbrewer
   - r-htmltools
   - r-farver
+  - r-dplyr

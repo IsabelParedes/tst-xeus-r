@@ -6,3 +6,4 @@ dependencies:
   - xeus-r
   - r-dplyr
   - r-ggplot2
+  - xeus-javascript
